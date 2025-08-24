@@ -32,7 +32,7 @@ Key functionalities of the application include:
 
 5. **User-Friendly Output** – Displays the weather details in a clear and readable format on the console.
 
-This project helps interns understand:
+This project helps us understand:
 
 * How to work with **APIs in Java**.
 * How to send **HTTP requests and process responses**.
@@ -43,6 +43,7 @@ By completing this project, interns gain exposure to practical Java development 
 
 Overall, the **Weather Application** not only enhances Java programming skills but also provides insight into building applications that connect with external services and deliver meaningful data to users.
 
+#output
+<img width="919" height="183" alt="Image" src="https://github.com/user-attachments/assets/044539e5-9b50-4ba3-96c4-8f4784d97440" />
 
 
-This will make your README look more complete.
